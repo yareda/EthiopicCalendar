@@ -2,7 +2,7 @@ Ethiopic date conversion in C# based on JDN
 ============
 
 A class library for converting Ethiopian dates to Gregorian and vice versa. The algorithm is based on Julian Day Numbers (JDN). The C# version
-is a port of the Java one fount at ethiopic.org (http://ethiopic.org/calendars/EthiopicCalendar.java).
+is a port of the Java one found at ethiopic.org (http://ethiopic.org/calendars/EthiopicCalendar.java).
 
 #### More Resources
 
