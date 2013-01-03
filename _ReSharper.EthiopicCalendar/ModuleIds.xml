@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB" ModuleId="EthiopicCalendar" />
+  <Module PersistentId="0150BFEA-B64C-4340-B5AA-AB881FEC2098" ModuleId="EthiopicCalendar.Test" />
+  <Module PersistentId="448E622E-FCCE-4B3C-B890-90573D2E5C8D" ModuleId="Ethiopic.Calendar" />
+</Modules>

@@ -1,0 +1,18 @@
+c:\users\yared\documents\visual studio 2010\Projects\EthiopicCalendar\EthiopicCalendar\bin\Debug\EthiopicCalendar.exe
+c:\users\yared\documents\visual studio 2010\Projects\EthiopicCalendar\EthiopicCalendar\bin\Debug\EthiopicCalendar.pdb
+c:\users\yared\documents\visual studio 2010\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\yared\documents\visual studio 2010\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\EthiopicCalendar.Properties.Resources.resources
+c:\users\yared\documents\visual studio 2010\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\yared\documents\visual studio 2010\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\yared\documents\visual studio 2010\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\EthiopicCalendar.exe
+c:\users\yared\documents\visual studio 2010\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\EthiopicCalendar.pdb
+c:\users\yared\documents\visual studio 2010\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\EthiopicCalendar.Form1.resources
+D:\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\EthiopicCalendar.exe
+D:\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\EthiopicCalendar.pdb
+D:\Projects\EthiopicCalendar\EthiopicCalendar\bin\Debug\EthiopicCalendar.exe
+D:\Projects\EthiopicCalendar\EthiopicCalendar\bin\Debug\EthiopicCalendar.pdb
+D:\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\EthiopicCalendar.Form1.resources
+D:\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\EthiopicCalendar.Properties.Resources.resources
+D:\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\GenerateResource.write.1.tlog

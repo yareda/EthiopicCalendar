@@ -1,0 +1,200 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0150BFEA-B64C-4340-B5AA-AB881FEC2098/f:CalendarTest.cs" caret="319" fromTop="12" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Program.cs" caret="325" fromTop="8" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Form1.cs" caret="468" fromTop="20" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="15274" fromTop="24" />
+      <File id="448E622E-FCCE-4B3C-B890-90573D2E5C8D/f:Calendar.cs/l:..?EthiopicCalendar?Calendar.cs" caret="15535" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Form1.cs" caret="1041" fromTop="13" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Form1.cs" caret="919" fromTop="15" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="17531" fromTop="8" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Form1.cs" caret="1041" fromTop="7" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Form1.cs" caret="453" fromTop="17" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="17531" fromTop="20" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="17531" fromTop="10" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Form1.cs" caret="543" fromTop="6" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="17579" fromTop="22" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="1731" fromTop="13" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="2708" fromTop="5" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="3939" fromTop="14" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="17531" fromTop="20" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="17531" fromTop="28" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="17531" fromTop="18" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="17531" fromTop="12" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="17531" fromTop="19" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="10171" fromTop="19" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="17577" fromTop="27" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="17531" fromTop="18" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="17531" fromTop="23" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="16938" fromTop="25" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="16723" fromTop="19" />
+      <File id="1F894BFE-9AE8-4CEB-B4FA-229A8B1137FB/f:Calendar.cs" caret="15274" fromTop="24" />
+      <File id="448E622E-FCCE-4B3C-B890-90573D2E5C8D/f:Calendar.cs/l:..?EthiopicCalendar?Calendar.cs" caret="18405" fromTop="28" />
+      <File id="448E622E-FCCE-4B3C-B890-90573D2E5C8D/f:Calendar.cs/l:..?EthiopicCalendar?Calendar.cs" caret="16090" fromTop="26" />
+      <File id="448E622E-FCCE-4B3C-B890-90573D2E5C8D/f:Calendar.cs/l:..?EthiopicCalendar?Calendar.cs" caret="17236" fromTop="17" />
+      <File id="448E622E-FCCE-4B3C-B890-90573D2E5C8D/f:Calendar.cs/l:..?EthiopicCalendar?Calendar.cs" caret="15532" fromTop="14" />
+      <File id="448E622E-FCCE-4B3C-B890-90573D2E5C8D/f:Calendar.cs/l:..?EthiopicCalendar?Calendar.cs" caret="16090" fromTop="23" />
+      <File id="448E622E-FCCE-4B3C-B890-90573D2E5C8D/f:Calendar.cs/l:..?EthiopicCalendar?Calendar.cs" caret="16071" fromTop="27" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Calendar`0" priority="6" />
+      <Item value="private" priority="11" />
+      <Item value="EthiopicCalendar" priority="3" />
+      <Item value="new" priority="8" />
+      <Item value="Calendar" priority="2" />
+      <Item value="ec" priority="5" />
+      <Item value="DateTime`0" priority="5" />
+      <Item value="selected" priority="4" />
+      <Item value="Day`0" priority="0" />
+      <Item value="int" priority="17" />
+      <Item value="year" priority="1" />
+      <Item value="month" priority="2" />
+      <Item value="day" priority="0" />
+      <Item value="result" priority="6" />
+      <Item value="string" priority="12" />
+      <Item value="textBox1" priority="0" />
+      <Item value="public" priority="13" />
+      <Item value="class" priority="1" />
+      <Item value="prop" priority="1" />
+      <Item value="enum" priority="0" />
+      <Item value="EpochOffset`0" priority="1" />
+      <Item value="this" priority="0" />
+      <Item value="current" priority="1" />
+      <Item value="struct" priority="0" />
+      <Item value="var" priority="1" />
+      <Item value="date" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="_day" priority="3" />
+      <Item value="gcDateTime" priority="5" />
+      <Item value="_month" priority="4" />
+      <Item value="_year" priority="5" />
+      <Item value="GC`0" priority="0" />
+      <Item value="_era" priority="1" />
+      <Item value="EthiopicDateTime`0" priority="5" />
+      <Item value="propg" priority="0" />
+      <Item value="return" priority="8" />
+      <Item value="EthiopicDateTime" priority="1" />
+      <Item value="Convert`0" priority="4" />
+      <Item value="_incomingEra" priority="0" />
+      <Item value="_incomingYear" priority="2" />
+      <Item value="_incomingMonth" priority="0" />
+      <Item value="_incomingDay" priority="0" />
+      <Item value="_Day" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="c" priority="3" />
+      <Item value="_dayName" priority="0" />
+      <Item value="_dayOfWeek" priority="1" />
+      <Item value="switch" priority="1" />
+      <Item value="case" priority="2" />
+      <Item value="DayOfWeek`0" priority="1" />
+      <Item value="dow" priority="2" />
+      <Item value="dayNames" priority="1" />
+      <Item value="break" priority="2" />
+      <Item value="mn" priority="1" />
+      <Item value="monthNames" priority="1" />
+      <Item value="GetETMonthName`0" priority="0" />
+      <Item value="eraNames" priority="0" />
+      <Item value="GetETDayOfWeek`0" priority="0" />
+      <Item value="label1" priority="1" />
+      <Item value="dateTimePicker1" priority="0" />
+      <Item value="Font" priority="0" />
+      <Item value="DateTime" priority="0" />
+      <Item value="dateString" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="items" priority="1" />
+      <Item value="Length" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="ExecutionEngineException`0" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="throw" priority="1" />
+      <Item value="ApplicationException" priority="0" />
+      <Item value="e" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EthiopicCalendar.Calendar">
+      <Item value="gregorianToEthiopic`0" priority="1" />
+      <Item value="Set`0" priority="1" />
+      <Item value="GetEra`0" priority="2" />
+      <Item value="GetDate`0" priority="0" />
+      <Item value="GetYear`0" priority="0" />
+      <Item value="GetMonth`0" priority="0" />
+      <Item value="GetDay`0" priority="0" />
+      <Item value="EthiopicToGregorian`0" priority="1" />
+      <Item value="GregorianToEthiopic`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EthiopicCalendar.Form1">
+      <Item value="dateTimePicker1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DateTimePicker">
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Date" priority="0" />
+      <Item value="Day" priority="1" />
+      <Item value="Month" priority="1" />
+      <Item value="Year" priority="2" />
+      <Item value="DayOfWeek" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="1" />
+      <Item value="Empty" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@EthiopicCalendar.Calendar+EpochOffset">
+      <Item value="Unset" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@EthiopicCalendar.Calendar">
+      <Item value="JD_EPOCH_OFFSET_AMETE_MIHRET" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DayOfWeek">
+      <Item value="Sunday" priority="0" />
+      <Item value="Monday" priority="0" />
+      <Item value="Tuesday" priority="0" />
+      <Item value="Wednesday" priority="0" />
+      <Item value="Thursday" priority="0" />
+      <Item value="Friday" priority="0" />
+      <Item value="Saturday" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="1" />
+      <Item value="Font" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EthiopicCalendar.EthiopicDateTime">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Font">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

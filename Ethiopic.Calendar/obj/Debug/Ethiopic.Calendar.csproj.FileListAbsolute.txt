@@ -1,0 +1,4 @@
+D:\Projects\EthiopicCalendar\Ethiopic.Calendar\bin\Debug\Ethiopic.Calendar.dll
+D:\Projects\EthiopicCalendar\Ethiopic.Calendar\bin\Debug\Ethiopic.Calendar.pdb
+D:\Projects\EthiopicCalendar\Ethiopic.Calendar\obj\Debug\Ethiopic.Calendar.dll
+D:\Projects\EthiopicCalendar\Ethiopic.Calendar\obj\Debug\Ethiopic.Calendar.pdb

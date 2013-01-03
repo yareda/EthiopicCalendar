@@ -1,0 +1,7 @@
+D:\Projects\EthiopicCalendar\EthiopicCalendar\bin\Debug\EthiopicCalendar.exe
+D:\Projects\EthiopicCalendar\EthiopicCalendar\bin\Debug\EthiopicCalendar.pdb
+D:\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\EthiopicCalendar.Form1.resources
+D:\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\EthiopicCalendar.Properties.Resources.resources
+D:\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\EthiopicCalendar.exe
+D:\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\EthiopicCalendar.pdb
+D:\Projects\EthiopicCalendar\EthiopicCalendar\obj\x86\Debug\EthiopicCalendar.UI.csproj.GenerateResource.Cache
